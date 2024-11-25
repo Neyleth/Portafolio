@@ -309,7 +309,7 @@ section {
 }
 
 .service-info p {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   font-weight: 600;
   line-height: 1.7;
 }
@@ -355,6 +355,7 @@ section {
 
 .project-card img {
   max-width: 300px;
+  max-height: 200px;
   border-radius: 2rem;
   object-fit: cover;
 }
