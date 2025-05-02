@@ -424,6 +424,13 @@ section {
 .footer {
   background-color: var(--bg-color);
   padding: 50px 0;
+  text-align: center;
+}
+
+.footer img{
+  width: 9vw;
+  border-radius: 60%;
+  
 }
 
 .footer .social-icons {
